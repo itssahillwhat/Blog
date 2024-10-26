@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Bootstrap_Flask
 Flask_CKEditor
 Flask_Login
@@ -9,4 +10,17 @@ Flask
 flask_sqlalchemy
 SQLAlchemy
 gunicorn
+=======
+Bootstrap_Flask
+Flask_CKEditor
+Flask_Login
+Flask-Gravatar
+Flask_WTF
+WTForms
+Werkzeug
+Flask
+flask_sqlalchemy
+SQLAlchemy
+gunicorn
+>>>>>>> 8d2ff22f7973c068d940663455c72362bd8cdad5
 psycopg2-binary
